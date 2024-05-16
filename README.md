@@ -7,6 +7,9 @@ and setup the proper API keys in the .env as well as a MongoDB database. The API
 functional then and users can interact with a paper trader via CRUD operations.
 
 Requirements to run:
+
 cd backend
+
 npm install
+
 npm run dev
